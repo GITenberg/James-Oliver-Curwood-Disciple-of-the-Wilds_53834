@@ -1,0 +1,29 @@
+_repo: James-Oliver-Curwood-Disciple-of-the-Wilds_53834
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Weber, J. C.
+    gutenberg_agent_id: '47565'
+    url: http://www.gutenberg.org/2009/agents/47565
+creator:
+  author:
+    agent_name: Swiggett, Hobart Donald
+    birthdate: 1920
+    gutenberg_agent_id: '47564'
+    url: http://www.gutenberg.org/2009/agents/47564
+description: ''
+gutenberg_issued: '2016-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53834'
+  lccn: '43016014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Curwood, James Oliver, 1878-1927'
+- GITenberg
+title: James Oliver Curwood, Disciple of the Wilds
+url: http://www.gutenberg.org/ebooks/53834
