@@ -5,6 +5,9 @@ contributor:
     agent_name: Weber, J. C.
     gutenberg_agent_id: '47565'
     url: http://www.gutenberg.org/2009/agents/47565
+covers:
+- cover_type: archival
+  image_path: 53834-h/images/cover.jpg
 creator:
   author:
     agent_name: Swiggett, Hobart Donald
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '47564'
     url: http://www.gutenberg.org/2009/agents/47564
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53834#James-Oliver-Curwood-Disciple-of-the-Wilds
 gutenberg_issued: '2016-12-30'
 gutenberg_type: Text
 identifiers:
